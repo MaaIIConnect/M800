@@ -1,0 +1,2 @@
+# M800
+maaiiConnect provides businesses with an all-in-one solution for customer engagement and internal collaboration.  Leveraging an innovative multi-dimensional convergence model, maaiiConnect seamlessly unifies telecom and digital  communication channels, such as PSTN, VoIP, websites, apps, and social networks. It is device agnostic, empowering employees  to be more productive, as well as providing companies a platform to deliver a suite of multimedia experience to their customers  anytime, anywhere, on any device.
